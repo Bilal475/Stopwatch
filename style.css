@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: #000;
+    display: inline-block;
+    background-color: #fff;
+    width: 100px;
+    font-size: 50px;
+}
+.head{
+    width: 100%;
+}
+button{
+    margin: 10px;
+    font-size: 30px;
+}
+button:hover{
+    background-color: green;
+}
+.note{
+    color: #fff;
+}
